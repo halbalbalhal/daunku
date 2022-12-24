@@ -1,1 +1,2 @@
-# daunku is site that we made in team
+# daunku is site for my "Portfolio")
+# I used only html/css here
